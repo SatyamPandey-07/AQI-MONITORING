@@ -194,14 +194,20 @@ if st.sidebar.button("Train Model"):
 	st.subheader("Feature Importances")
 	if hasattr(model, "feature_importances_"):
 		importances = model.feature_importances_
-		feat_imp = pd.Series(importances, index=selected_features).sort_values(ascending=False)
-		st.bar_chart(feat_imp)
-		st.markdown("**Explanation:** Higher values indicate features that contribute more to the model's predictions.")
+		if len(importances) == len(selected_features):
+			feat_imp = pd.Series(importances, index=selected_features).sort_values(ascending=False)
+			st.bar_chart(feat_imp)
+			st.markdown("**Explanation:** Higher values indicate features that contribute more to the model's predictions.")
+		else:
+			st.warning(f"Cannot display feature importances: model returned {len(importances)} importances, but {len(selected_features)} features are selected. This may happen if the model uses internal feature expansion or encoding.")
 	elif hasattr(model, "coef_"):
 		importances = np.abs(model.coef_).flatten()
-		feat_imp = pd.Series(importances, index=selected_features).sort_values(ascending=False)
-		st.bar_chart(feat_imp)
-		st.markdown("**Explanation:** Higher absolute coefficient values indicate more important features for the model.")
+		if len(importances) == len(selected_features):
+			feat_imp = pd.Series(importances, index=selected_features).sort_values(ascending=False)
+			st.bar_chart(feat_imp)
+			st.markdown("**Explanation:** Higher absolute coefficient values indicate more important features for the model.")
+		else:
+			st.warning(f"Cannot display feature importances: model returned {len(importances)} importances, but {len(selected_features)} features are selected. This may happen if the model uses internal feature expansion or encoding.")
 
 
 	# Always save model and scaler after training using config paths

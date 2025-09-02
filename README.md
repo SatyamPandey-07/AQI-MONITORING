@@ -26,7 +26,18 @@
 - 🎨 **Modern UI**: Clean, responsive, and user-friendly interface
 
 ---
-## LIVE VIDEO 
+## 🎥 Live Demo
+
+<p align="center">
+  <b>Watch a live demo of the AQI Monitoring App in action:</b><br>
+  <a href="file:///c:/Users/Satyam/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Recordings/20250902-1021-42.2224402.mp4">
+    <img src="https://img.icons8.com/fluency/48/video-playlist.png" width="40"/>
+    <br>
+    <b>Click here to watch the demo video</b>
+  </a>
+  <br>
+  <i>(If the video does not open, copy the link and open it in your video player.)</i>
+</p>
 
 ---
 ## 🌈 App Preview
