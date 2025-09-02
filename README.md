@@ -1,16 +1,23 @@
+
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/air-quality.png" width="80"/>
-  <h1>AQI Monitoring Web App</h1>
-  <p><b>Interactive Air Quality Analysis, Visualization, and Machine Learning Prediction</b></p>
+  <img src="https://img.icons8.com/fluency/96/air-quality.png" width="90"/>
+  <h1 style="font-size:2.5rem; margin-bottom:0;">AQI Monitoring Web App</h1>
+  <p style="font-size:1.2rem; margin-top:0;">
+    <b>🌫️ Interactive Air Quality Analysis, Visualization, and Machine Learning Prediction</b>
+  </p>
   <p>
-    <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python"/>
+    <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white"/></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python"/></a>
     <img src="https://img.shields.io/badge/License-MIT-green"/>
     <img src="https://img.shields.io/badge/Tests-Pytest-blueviolet"/>
+    <img src="https://img.shields.io/github/stars/SatyamPandey-07/AQI-MONITORING?style=social"/>
   </p>
 </div>
 
-> **A beautiful, modern web app for exploring, modeling, and predicting Air Quality Index (AQI) using machine learning.**
+
+<p align="center" style="font-size:1.1rem;">
+  <b>✨ A beautiful, modern web app for exploring, modeling, and predicting Air Quality Index (AQI) using machine learning. ✨</b>
+</p>
 
 ---
 
@@ -26,27 +33,28 @@
 - 🎨 **Modern UI**: Clean, responsive, and user-friendly interface
 
 ---
+
 ## 🎥 Live Demo
 
-
-
-<p align="center">
-  <b>Watch a live demo of the AQI Monitoring App in action:</b><br>
-  
-  <!-- Hosted video option (Google Drive) -->
+<div align="center">
+  <b>🚀 See the AQI Monitoring App in action!</b><br><br>
   <a href="https://drive.google.com/file/d/1TcGlE-mTFIkVqMof7igcmiMlGWg0aZl0/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/video-playlist.png" width="40"/>
+    <img src="https://img.icons8.com/fluency/96/video-playlist.png" width="60"/>
     <br>
-    <b>Watch on Google Drive (Recommended)</b>
+    <b>▶️ Watch Demo on Google Drive</b>
   </a>
   <br><br>
-  <!-- Direct download from repo (if under 100MB) -->
   <a href="live-video/Recording%202025-09-02%20162332%20(1).mp4" download>
-    <b>Download the demo video (MP4, 80MB)</b>
+    <img src="https://img.icons8.com/fluency/48/download--v1.png" width="32"/>
+    <br>
+    <b>⬇️ Download Demo Video (MP4, 80MB)</b>
   </a>
-</p>
+</div>
 
 ---
+
+---
+
 ## 🌈 App Preview
 
 <p align="center">
@@ -60,7 +68,10 @@
 
 ---
 
-## 🛠️ Quick Start
+
+---
+
+## ⚡ Quick Start
 
 ```bash
 # 1. Clone the repository
@@ -82,7 +93,10 @@
 
 ---
 
-## 📝 Usage
+
+---
+
+## 🧑‍� Usage
 
 - Use the sidebar to upload data, select preprocessing, features, and model
 - Train and evaluate with a click
@@ -91,7 +105,10 @@
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## �️ Project Structure
 
 ```
 ├── app.py                # Main Streamlit web app
@@ -106,7 +123,10 @@
 
 ---
 
-## ✅ Testing
+
+---
+
+## 🧪 Testing
 
 Automated tests are provided in `tests/`.
 
@@ -116,7 +136,10 @@ pytest tests/
 
 ---
 
-## 💡 Model Saving/Loading
+
+---
+
+## � Model Saving/Loading
 
 The app saves and loads models automatically in the `models/` directory.
 
@@ -130,17 +153,26 @@ model = joblib.load('models/aqi_model.pkl')
 
 ---
 
-## 🔍 Data Validation
+
+---
+
+## 🧐 Data Validation
 
 - Built-in checks for missing values, class balance, and outliers
 - Outlier visualization and feature importance explanations included
 
 ---
 
-## 🙌 Credits
+
+---
+
+## � Credits
 
 - Built with [Streamlit](https://streamlit.io/), [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.ai/), and [pandas](https://pandas.pydata.org/)
 - UI icons by [Icons8](https://icons8.com/icons/set/air-quality)
+
+---
+
 
 ---
 
