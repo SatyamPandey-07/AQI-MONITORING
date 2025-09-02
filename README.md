@@ -32,11 +32,11 @@
 <p align="center">
   <b>Watch a live demo of the AQI Monitoring App in action:</b><br>
   <video width="600" controls>
-    <source src="live-video/Recording%202025-09-02%20162332.mp4" type="video/mp4">
+    <source src="live-video/Recording%202025-09-02%20162332%20(1).mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <br>
-  <a href="live-video/Recording%202025-09-02%20162332.mp4">Download/View the demo video (MP4)</a>
+  <a href="live-video/Recording%202025-09-02%20162332%20(1).mp4">Download/View the demo video (MP4)</a>
 </p>
 
 ---
