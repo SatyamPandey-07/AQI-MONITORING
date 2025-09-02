@@ -194,7 +194,7 @@ Feel free to fork the repo, open an issue, or submit a pull request.
 
 <b>Satyam Pandey</b>  
 <a href="https://github.com/SatyamPandey-07" target="_blank">GitHub: @SatyamPandey-07</a>  
-Email: satyampandey.official@gmail.com
+Email: satyampandey9820@gmail.com
 
 ---
 
