@@ -28,15 +28,15 @@
 ---
 ## 🎥 Live Demo
 
+
 <p align="center">
   <b>Watch a live demo of the AQI Monitoring App in action:</b><br>
-  <a href="file:///c:/Users/Satyam/AppData/Local/Packages/Microsoft.ScreenSketch_8wekyb3d8bbwe/TempState/Recordings/20250902-1021-42.2224402.mp4">
-    <img src="https://img.icons8.com/fluency/48/video-playlist.png" width="40"/>
-    <br>
-    <b>Click here to watch the demo video</b>
-  </a>
+  <video width="600" controls>
+    <source src="live-video/Recording%202025-09-02%20162332.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <br>
-  <i>(If the video does not open, copy the link and open it in your video player.)</i>
+  <a href="live-video/Recording%202025-09-02%20162332.mp4">Download/View the demo video (MP4)</a>
 </p>
 
 ---
