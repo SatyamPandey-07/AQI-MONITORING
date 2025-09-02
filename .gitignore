@@ -13,10 +13,8 @@ ENV/
 
 # Data and model artifacts
 models/
-*.pkl
 *.joblib
 *.h5
-*.csv
 *.xlsx
 
 # Streamlit cache
