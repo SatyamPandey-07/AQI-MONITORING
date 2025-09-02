@@ -166,10 +166,49 @@ model = joblib.load('models/aqi_model.pkl')
 
 ---
 
-## � Credits
 
-- Built with [Streamlit](https://streamlit.io/), [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.ai/), and [pandas](https://pandas.pydata.org/)
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!<br>
+Feel free to fork the repo, open an issue, or submit a pull request.
+
+**How to contribute:**
+- ⭐ Star this repo to show your support
+- Fork the project
+- Create your feature branch (`git checkout -b feature/AmazingFeature`)
+- Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+- Push to the branch (`git push origin feature/AmazingFeature`)
+- Open a Pull Request
+
+---
+
+## 🙏 Credits
+
+- Built with [Streamlit](https://streamlit.io/), [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.ai/), [pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
 - UI icons by [Icons8](https://icons8.com/icons/set/air-quality)
+- Project by [Satyam Pandey](https://github.com/SatyamPandey-07)
+
+---
+
+## 👤 Author
+
+<b>Satyam Pandey</b>  
+<a href="https://github.com/SatyamPandey-07" target="_blank">GitHub: @SatyamPandey-07</a>  
+Email: satyampandey.official@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <img src="https://img.icons8.com/fluency/48/party-baloons.png" width="40"/>
+  <h3>Made with ❤️ by Satyam Pandey</h3>
+  <p>2025 &copy; All rights reserved.</p>
+</div>
 
 ---
 
