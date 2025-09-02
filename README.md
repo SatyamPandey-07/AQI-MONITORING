@@ -29,14 +29,21 @@
 ## 🎥 Live Demo
 
 
+
 <p align="center">
   <b>Watch a live demo of the AQI Monitoring App in action:</b><br>
-  <video width="600" controls>
-    <source src="live-video/Recording%202025-09-02%20162332%20(1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <a href="live-video/Recording%202025-09-02%20162332%20(1).mp4">Download/View the demo video (MP4)</a>
+  
+  <!-- Hosted video option (Google Drive) -->
+  <a href="https://drive.google.com/file/d/1TcGlE-mTFIkVqMof7igcmiMlGWg0aZl0/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/video-playlist.png" width="40"/>
+    <br>
+    <b>Watch on Google Drive (Recommended)</b>
+  </a>
+  <br><br>
+  <!-- Direct download from repo (if under 100MB) -->
+  <a href="live-video/Recording%202025-09-02%20162332%20(1).mp4" download>
+    <b>Download the demo video (MP4, 80MB)</b>
+  </a>
 </p>
 
 ---
