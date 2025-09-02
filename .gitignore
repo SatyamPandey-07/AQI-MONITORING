@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model artifacts
+models/
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.xlsx
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Test outputs
+htmlcov/
+.coverage
+.cache/
+pytest_cache/
+
+# Screenshots (optional, keep if you want to share)
+screenshots/
