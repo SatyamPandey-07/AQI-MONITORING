@@ -30,13 +30,12 @@
 ## 🌈 App Preview
 
 <p align="center">
-  <img src="screenshots/app_main_ui.png" width="600"/>
+ <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5ecc7a76-abcf-45e7-9cb3-c8f5747f354a" />
   <br>
-  <img src="screenshots/model_results.png" width="600"/>
+  <img width="1917" height="1076" alt="image" src="https://github.com/user-attachments/assets/6fb472b7-a683-4046-a2ad-f75e0293737c" />
   <br>
-  <img src="screenshots/outlier_visualization.png" width="600"/>
+ <img width="1918" height="1048" alt="image" src="https://github.com/user-attachments/assets/60610d8e-a63c-44f8-a98c-a34bca46d3ec" />
   <br>
-  <i>Replace these with your actual screenshots for best effect!</i>
 </p>
 
 ---
