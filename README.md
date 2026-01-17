@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://img.icons8.com/fluency/96/air-quality.png" width="90"/>
   <h1 style="font-size:2.5rem; margin-bottom:0;">AQI Monitoring Web App</h1>
-  <p style="font-size:1.2rem; margin-top:0;">
+  <p style="font-size:1.3rem; margin-top:0;">
     <b>🌫️ Interactive Air Quality Analysis, Visualization, and Machine Learning Prediction</b>
   </p>
   <p>
